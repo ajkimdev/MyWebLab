@@ -347,3 +347,5 @@ healthchecksdb
 
 # Local History for Visual Studio Code
 .history/
+
+*/appsettings.Development.json
